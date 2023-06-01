@@ -8,8 +8,7 @@ const HotReloadTester: FC = () => {
         padding: "1em"
       }}
     >
-      I am the text that will change without reloading when you edit me and save
-      the file
+      This text reloads on save
     </span>
   );
 };
